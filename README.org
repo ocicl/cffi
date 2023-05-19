@@ -2,8 +2,8 @@
 
 CFFI, the Common Foreign Function Interface, purports to be a portable foreign function interface for Common Lisp.
 
-|---------+--------------------------------------------------------------------|
-| source  | file:https://github.com/cffi/cffi/archive/refs/tags/v0.24.1.tar.gz |
-| version | 0.24.1                                                             |
-| systems | cffi cffi-libffi cffi-toolchain cffi-grovel cffi-uffi-compat       |
-|---------+--------------------------------------------------------------------|
+|---------+--------------------------------------------------------------|
+| source  | git:https://github.com/cffi/cffi.git                         |
+| version | e29d162                                                      |
+| systems | cffi cffi-libffi cffi-toolchain cffi-grovel cffi-uffi-compat |
+|---------+--------------------------------------------------------------|
