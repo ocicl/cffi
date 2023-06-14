@@ -4,6 +4,6 @@ CFFI, the Common Foreign Function Interface, purports to be a portable foreign f
 
 |---------+--------------------------------------------------------------|
 | source  | git:https://github.com/cffi/cffi.git                         |
-| commit  | e29d162                                                      |
+| commit  | c42b42e                                                      |
 | systems | cffi cffi-libffi cffi-toolchain cffi-grovel cffi-uffi-compat |
 |---------+--------------------------------------------------------------|
